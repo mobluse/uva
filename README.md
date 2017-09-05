@@ -1,5 +1,5 @@
 # uva
-Solutions for UVa Online Judge in these programming languages  
+Solutions for UVa Online Judge in these programming languages:  
 ￼PYTH3 3.5.1 - Python 3  
 PASCAL 3.0.0 - Free Pascal Compiler  
 ANSI C 5.3.0 - GNU C Compiler with options: -lm -lcrypt -O2 -pipe -ansi  
