@@ -1,11 +1,15 @@
 # CERN ROOT
-You can use [ROOT](https://root.cern.ch/root-user-guides-and-manuals) to develop C++ easily and without crashes by using
-ROOT from CERN. Install in Debian, Raspbian, Ubuntu &c. using:  
+You can use [ROOT](https://root.cern.ch/root-user-guides-and-manuals) to develop C++ easily with a debugger and
+without crashes by using ROOT from CERN.
+In the following you should not type $ in the beginning of a command-line -- it's prompt.
+Install in Debian, Raspbian, Ubuntu, [Ubuntu for Windows 10](https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6)
+etc. using:  
 $ sudo apt-get install root-system
+
 $ root #Starts ROOT -- quit using .q
 
-You probably need ROOT Primer 5 (https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/ROOT5Primer.pdf) since 
-most Linux distributions still ship a version from series 5.
+You probably need *[ROOT Primer 5](https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/ROOT5Primer.pdf)* since 
+most Linux distributions still ship a version from series 5 even if series 6 is avaible now from CERN.
 
 ## Installing ROOT in Elementary OS Luna i.e. Ubuntu 12.04 on x86-32
 OS:es for x86-32 often doesn't have ROOT built-in, but you can compile it, but it takes several hours.
@@ -48,6 +52,9 @@ $ cd $WHERE_TO_INSTALL_ROOT
 $ source bin/thisroot.sh
 
 $ root # ROOT should start, exit with .q
+
+I use Elementary OS Luna (Ubuntu 12.04) on a 9" screen Eee PC 900 with x86 32-bit processor.
+I might upgrade to Elementary OS Freya (Ubuntu 14.04), but that is the last Elementary OS for x86 32 bits.
 
 ## References
 https://askubuntu.com/questions/39363/how-do-i-install-root-cern  
