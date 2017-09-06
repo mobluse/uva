@@ -1,4 +1,4 @@
-# uva
+# UVa
 Solutions for UVa Online Judge in these programming languages:  
 ￼PYTH3 3.5.1 - Python 3  
 PASCAL 3.0.0 - Free Pascal Compiler  
