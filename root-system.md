@@ -18,7 +18,7 @@ libqt4-dev
 
 $ sudo apt-get install libcfitsio-dev  
 #This is part of the optional packages, but it doesn't exist in this OS, but compiling works anyway.  
-#E: Package 'libcfitsio-dev' has no installation candidate
+#E: Package 'libcfitsio-dev' has no installation candidate  
 #You will probably need to install more packages, and need to google error messages during configure or make to find which.
 
 $ tar -xzvpf root_v5.34.36.source.tar.gz
