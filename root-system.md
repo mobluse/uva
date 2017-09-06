@@ -2,7 +2,7 @@
 You can use [ROOT](https://root.cern.ch/root-user-guides-and-manuals) to develop C++ easily and without crashes by using
 ROOT from CERN. Install in Debian, Raspbian, Ubuntu &c. using:  
 $ sudo apt-get install root-system
-$ root # Starts ROOT -- quit using .q
+$ root #Starts ROOT -- quit using .q
 
 ## Installing ROOT in Elementary OS Luna i.e. Ubuntu 12.04 on x86-32
 OS:es for x86-32 often doesn't have ROOT built-in, but you can compile it, but it takes several hours.
@@ -17,9 +17,9 @@ libfftw3-dev graphviz-dev libavahi-compat-libdnssd-dev libldap2-dev python-dev l
 libqt4-dev  
 
 $ sudo apt-get install libcfitsio-dev  
-# This is part of the optional packages, but it doesn't exist in this OS, but compiling works anyway.  
-# E: Package 'libcfitsio-dev' has no installation candidate
-# You will probably need to install more packages, and need to google error messages during configure or make to find which.
+#This is part of the optional packages, but it doesn't exist in this OS, but compiling works anyway.  
+#E: Package 'libcfitsio-dev' has no installation candidate
+#You will probably need to install more packages, and need to google error messages during configure or make to find which.
 
 $ tar -xzvpf root_v5.34.36.source.tar.gz
 
@@ -38,7 +38,7 @@ $ sudo make # Maybe sudo is not needed here.
 $ sudo apt-get install checkinstall
 
 $ sudo checkinstall --pkgname=root-framework --fstrans=no --strip=no make install  
-# You must enter version.
+#You must enter version.
 
 $ cd $WHERE_TO_INSTALL_ROOT
 
