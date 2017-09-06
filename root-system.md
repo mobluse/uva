@@ -4,6 +4,9 @@ ROOT from CERN. Install in Debian, Raspbian, Ubuntu &c. using:
 $ sudo apt-get install root-system
 $ root #Starts ROOT -- quit using .q
 
+You probably need ROOT Primer 5 (https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/ROOT5Primer.pdf) since 
+most Linux distributions still ship a version from series 5.
+
 ## Installing ROOT in Elementary OS Luna i.e. Ubuntu 12.04 on x86-32
 OS:es for x86-32 often doesn't have ROOT built-in, but you can compile it, but it takes several hours.
 Do not use this if you can install ROOT (root-system) via your package manager.
@@ -33,11 +36,11 @@ $ ./configure linux --with-x11-libdir=/usr/lib/i386-linux-gnu --with-xft-libdir=
 --with-xext-libdir=/usr/lib/i386-linux-gnu --with-xrootd-libdir=/usr/lib/i386-linux-gnu --disable-asimage \  
 --prefix=$WHERE_TO_INSTALL_ROOT
 
-$ sudo make # Maybe sudo is not needed here.
+$ sudo make #Maybe sudo is not needed here.
 
 $ sudo apt-get install checkinstall
 
-$ sudo checkinstall --pkgname=root-framework --fstrans=no --strip=no make install  
+$ sudo checkinstall --pkgname=root-framework --fstrans=no --strip=no make install
 #You must enter version.
 
 $ cd $WHERE_TO_INSTALL_ROOT
