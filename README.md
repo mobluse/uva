@@ -14,5 +14,4 @@ In my case C++ and C++11 use the same file.
   
 I only solve rather simple problems here and no assignments. I will not do your homework.
   
-[11044	Searching for Nessy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1985)
-[Solutions](https://github.com/mobluse/uva/tree/master/11044)
+[Solutions](https://github.com/mobluse/uva/tree/master/11044) | [11044	Searching for Nessy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1985)
