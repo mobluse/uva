@@ -1,5 +1,5 @@
 # UVa
-Solutions for UVa Online Judge in these programming languages:  
+Solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in these programming languages:  
 ￼PYTH3 3.5.1 - Python 3  
 PASCAL 3.0.0 - Free Pascal Compiler  
 ANSI C 5.3.0 - GNU C Compiler with options: -lm -lcrypt -O2 -pipe -ansi  
@@ -13,5 +13,7 @@ bounds checking of arrays. C and C++ can have bounds checking if you use [ROOT](
 In my case C++ and C++11 use the same file.
   
 I only solve rather simple problems here and no assignments. I will not do your homework.
-  
-[Solutions](https://github.com/mobluse/uva/tree/master/11044) | [11044	Searching for Nessy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1985)
+
+| Problem | Solution |
+| ------- | -------- |
+| [11044	Searching for Nessy](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1985) | [Solutions](https://github.com/mobluse/uva/tree/master/11044) |
