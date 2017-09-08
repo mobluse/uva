@@ -1,3 +1,4 @@
+(* @JUDGE_ID: mobluse 11044 Pascal "Closed-form expression" *)
 program UVa11044(input, output);
 
 var t, n, m, i: integer;
