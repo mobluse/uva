@@ -1,4 +1,4 @@
-/* @JUDGE_ID: mobluse 11044 C "Closed Formula" */
+/* @JUDGE_ID: mobluse 11044 C "Closed-form expression" */
 #include <stdio.h>
 
 int main() {
