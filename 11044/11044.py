@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# @JUDGE_ID: mobluse 11044 Python 3 "Closed-form expression"
 
 t = int(input())
 for i in range(t):
