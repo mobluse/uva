@@ -1,5 +1,5 @@
 (* @JUDGE_ID: mobluse 11044 Pascal "Closed-form expression" *)
-(* fpc -vw -Sd -dONLINE_JUDGE 11044.pas *)
+(* fpc -vw -Sd -dONLINE_JUDGE main.pas *)
 program UVa11044(input, output);
 
 var t, n, m, i: integer;
