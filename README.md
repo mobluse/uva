@@ -8,11 +8,11 @@ ANSI C 5.3.0 - [GNU C Compiler](https://www.tutorialspoint.com/compile_c99_onlin
 ￼JAVA 1.8.0 - [OpenJDK Java](https://www.tutorialspoint.com/compile_java8_online.php)  
 ￼  
 They were ordered in compiler speed. Pascal, C, C++ and C++11 runs in 0.000 s for these problems. Python3, Pascal and Java have
-bounds checking of arrays. C and C++ can have bounds checking if you use [ROOT](https://en.wikipedia.org/wiki/ROOT).
+bounds checking of arrays. C and C++ can have bounds checking if you use [ROOT](https://github.com/mobluse/uva/blob/master/root-system.md).
   
 In my case C++ and C++11 use the same file.
   
-I only solve rather simple problems here and no assignments. I will not do your homework.
+I only solve rather simple problems here and no assignments.
 
 | Problem | Solution |
 | ------- | -------- |
