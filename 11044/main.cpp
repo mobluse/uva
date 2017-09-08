@@ -1,4 +1,6 @@
 // @JUDGE_ID: mobluse 11044 C++ "Closed-form expression"
+// g++ -lm -lcrypt -O2 -pipe -DONLINE_JUDGE main.cpp
+// g++ -lm -lcrypt -O2 -std=c++11 -pipe -DONLINE_JUDGE main.cpp
 #include <stdio.h>
 
 int main() {
