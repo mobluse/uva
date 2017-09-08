@@ -1,7 +1,7 @@
 # CERN ROOT
 You can use [ROOT](https://root.cern.ch/root-user-guides-and-manuals) to develop C++ easily with a debugger and
 without crashes by using ROOT from CERN.
-In the following you should not type $ in the beginning of a command-line -- it's prompt.
+In the following you should not type $ in the beginning of a command-line -- it's a prompt.
 Install in Debian, Raspbian, Ubuntu, [Ubuntu for Windows 10](https://www.microsoft.com/en-us/store/p/ubuntu/9nblggh4msv6)
 etc. using:  
 $ sudo apt-get install root-system
