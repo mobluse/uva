@@ -1,3 +1,4 @@
+// @JUDGE_ID: mobluse 11044 Java "Closed-form expression"
 import java.util.Scanner;
 
 public class Main {
