@@ -1,4 +1,5 @@
 /* @JUDGE_ID: mobluse 11044 C "Closed-form expression" */
+/* gcc -lm -lcrypt -O2 -pipe -ansi -DONLINE_JUDGE main.c */
 #include <stdio.h>
 
 int main() {
