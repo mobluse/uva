@@ -1,7 +1,7 @@
 # UVa
 Solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in these programming languages:  
 ￼PYTH3 3.5.1 - [Python 3](https://www.tutorialspoint.com/execute_python3_online.php)  
-PASCAL 3.0.0 - [Free Pascal Compiler](https://www.tutorialspoint.com/compile_pascal_online.php)  
+PASCAL 3.0.0 - [Free Pascal Compiler](https://www.tutorialspoint.com/compile_pascal_online.php) with options: -vw -Sd  
 ANSI C 5.3.0 - [GNU C Compiler](https://www.tutorialspoint.com/compile_c99_online.php) with options: -lm -lcrypt -O2 -pipe -ansi  
 ￼C++ 5.3.0 - [GNU C++ Compiler](https://www.tutorialspoint.com/compile_cpp_online.php) with options: -lm -lcrypt -O2 -pipe  
 ￼￼C++11 5.3.0 - [GNU C++ Compiler](https://www.tutorialspoint.com/compile_cpp11_online.php) with options: -lm -lcrypt -O2 -pipe -std=c++11  
