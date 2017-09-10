@@ -3,12 +3,12 @@ My accepted solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in th
 
 Language Code | Version | Online IDE | Options
 ------------- | ----- | ------------ | -------
-PYTH3         | 3.5.1 | [Python 3](https://www.tutorialspoint.com/execute_python3_online.php) | -v
+PYTH3         | 3.5.1 | [Python 3](https://www.tutorialspoint.com/execute_python3_online.php) |
 PASCAL        | 3.0.0 | [Free Pascal Compiler](https://www.tutorialspoint.com/compile_pascal_online.php) | -vw -Sd
 ANSI C        | 5.3.0 | [GNU C Compiler](https://www.tutorialspoint.com/compile_c99_online.php) | -lm -lcrypt -O2 -pipe -ansi
 ￼C++           | 5.3.0 | [GNU C++ Compiler](https://www.tutorialspoint.com/compile_cpp_online.php) | -lm -lcrypt -O2 -pipe
 ￼￼C++11         | 5.3.0 | [GNU C++ Compiler](https://www.tutorialspoint.com/compile_cpp11_online.php) | -lm -lcrypt -O2 -pipe -std=c++11
-￼JAVA          | 1.8.0 | [OpenJDK Java](https://www.tutorialspoint.com/compile_java8_online.php) | -v
+￼JAVA          | 1.8.0 | [OpenJDK Java](https://www.tutorialspoint.com/compile_java8_online.php) |
 
 They were ordered in compiler speed. Pascal, C, C++ and C++11 runs in 0.000 s for these problems. Python3, Pascal and Java
 have bounds checking of arrays. C and C++ can have bounds checking if you 
