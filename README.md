@@ -16,7 +16,10 @@ use CERN [ROOT](../blob/master/root-system.md).
 
 In my cases, so far, C++ and C++11 use the same file.
 
-I only solve rather simple problems here and no assignments.
+I only solve rather simple problems here and no assignments. You can store private files on Bitbucket or Google Drive and download using e.g.:  
+$ git clone https://USERNAME@bitbucket.org/USERNAME/uva-oj.git  
+Password for 'https://USERNAME@bitbucket.org':  
+$ wget -O main.cpp --no-check-certificate 'https://docs.google.com/uc?export=download&id=0B6gtvGVfzmdySGZSUzhBSkU2VDg'
 
 | Problem | Solution |
 | ------- | -------- |
