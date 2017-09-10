@@ -1,5 +1,5 @@
 # UVa Online Judge
-My accepted solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in these programming languages:  
+My accepted solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in these programming languages:
 
 | Language Code | Version | Online IDE | Options |
 | ------------- | ------- | ---------- | ------- |
@@ -9,12 +9,13 @@ My accepted solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in th
 | ￼C++ | 5.3.0 | [GNU C++ Compiler](https://www.tutorialspoint.com/compile_cpp_online.php) | -lm -lcrypt -O2 -pipe |
 | ￼￼C++11 | 5.3.0 | [GNU C++ Compiler](https://www.tutorialspoint.com/compile_cpp11_online.php) | -lm -lcrypt -O2 -pipe -std=c++11 |  
 ￼| JAVA | 1.8.0 | [OpenJDK Java](https://www.tutorialspoint.com/compile_java8_online.php) |  |
-￼  
+
 They were ordered in compiler speed. Pascal, C, C++ and C++11 runs in 0.000 s for these problems. Python3, Pascal and Java
-have bounds checking of arrays. C and C++ can have bounds checking if you use [ROOT](https://github.com/mobluse/uva/blob/master/root-system.md).
-  
+have bounds checking of arrays. C and C++ can have bounds checking if you 
+use CERN [ROOT](https://github.com/mobluse/uva/blob/master/root-system.md).
+
 In my cases, so far, C++ and C++11 use the same file.
-  
+
 I only solve rather simple problems here and no assignments.
 
 | Problem | Solution |
