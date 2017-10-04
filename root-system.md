@@ -10,7 +10,8 @@ $ sudo apt-get install root-system
 $ root #Starts ROOT -- quit using .q
 
 You probably need *[ROOT Primer 5](https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/ROOT5Primer.pdf)* since 
-most Linux distributions still ship a version from series 5 even if series 6 is avaible now from CERN.
+most Linux distributions still ship a version from series 5 even if series 6 is avaible now from CERN. On how to use the debugger
+in ROOT series 5, see *[Debugging Scripts](https://root.cern.ch/root/htmldoc/guides/users-guide/CINT.html#debugging-scripts)*.
 
 ## Installing ROOT in Elementary OS Luna i.e. Ubuntu 12.04 on x86-32
 OS:es for x86-32 often doesn't have ROOT built-in, but you can compile it, but it takes several hours.
