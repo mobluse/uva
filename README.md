@@ -31,5 +31,5 @@ $ wget -O main.cpp --no-check-certificate 'https://docs.google.com/uc?export=dow
 The programs are tested, and are ranked based on running time, but if they have the same running time in whole milliseconds, then they 
 are ranked after submission date -- oldest first. One can use different programming languages, but those who generate fastest code have 
 an advantage in the ranking. If one submits a faster program it replaces the old solution and you probably rise in total ranking on 
-UVa O J. If one submits a program that isn't accepted you probably loose a bit in total ranking, but having many accepted solutions 
+UVa O J. If you submit a program that isn't accepted you probably loose a bit in total ranking, but having many accepted solutions 
 are more important for total ranking.
