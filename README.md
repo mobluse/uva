@@ -1,5 +1,5 @@
 # UVa Online Judge
-My accepted solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in these programming languages:
+Some of my accepted solutions for [UVa Online Judge](https://uva.onlinejudge.org/) in these programming languages:
 
 Language Code | Version | Online IDE | Options | Extension
 ------------- | ----- | ------------ | ------- | ---------
