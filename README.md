@@ -12,7 +12,7 @@ ANSI C        | 5.3.0 | [GNU C Compiler](https://www.tutorialspoint.com/compile_
 
 They were ordered in compiler speed. Pascal, C, C++ and C++11 runs in 0.000 s for these problems. Python3, Pascal and Java
 have bounds checking of arrays. C and C++ can have bounds checking if you 
-use CERN [ROOT](../blob/master/root-system.md) or [Valgrind](https://en.wikipedia.org/wiki/Valgrind). ROOT series 5 also
+use CERN [ROOT](../master/root-system.md) or [Valgrind](https://en.wikipedia.org/wiki/Valgrind). ROOT series 5 also
 has a debugger, but ROOT series 6 doesn't seem to have this.
 
 In my cases, so far, C++ and C++11 use the same file.
